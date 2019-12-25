@@ -1,3 +1,7 @@
 node_modules
 dist
 *package-lock.json
+*/package-lock.json
+**/package-lock.json
+Chapter02/package-lock.json
+
